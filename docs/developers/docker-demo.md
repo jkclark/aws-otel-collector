@@ -70,7 +70,7 @@ Please make sure you have the right aws credential path (eg, `~/.aws:/root/.aws`
 ```
 cd examples; docker-compose up 
 ```
-3. Now you can view you data in AWS console
+3. Now you can view your data in AWS console
 
     * X-Ray - aws console
     * CloudWatch - aws console  
